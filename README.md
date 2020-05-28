@@ -19,7 +19,7 @@ Microsoft Access 2010
 
    Edit sesuai dengan lokasi database pada directory aplikasi anda 
    
-   Contoh :  String connParam = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=[ directory aplikasi Anda ]\Database\db_pengirimanbarang.mdb"; 
+   Contoh :  OleDbConnection koneksi = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=[ directory aplikasi Anda ]\Database\db_pengirimanbarang.mdb"); 
 
 5. Selanjutnya run program FormMenu 
 
