@@ -35,6 +35,6 @@ Terima kasih kepada Allah SWT
 
 Terima kasih kepada Kedua Orang Tua 
 
-Terima kasih kepada Guru
+Terima kasih kepada Dosen
 
 Terima kasih kepada Semua
