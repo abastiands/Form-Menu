@@ -1,5 +1,5 @@
 # Form Menu 
-Form Menu adalah Form Menu adalah program yang digunakan untuk mendata berbagai macam menu makanan & di minuman yang akan dijual dengan menggunakan bahasa pemrograman c# dengan aplikasi Microsoft Visual Studio 2019. 
+Form Menu adalah Form Menu adalah program yang digunakan untuk mendata berbagai macam menu dengan menggunakan bahasa pemrograman c# dengan aplikasi Microsoft Visual Studio 2019. 
 
 # Aplikasi Yang Harus Di Install 
 Microsoft Visual Studio 2019 
